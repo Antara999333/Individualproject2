@@ -1,4 +1,4 @@
-## SQLite Lab
+## RUST CLI AND SQLITE
 
 ### Lab:
 
